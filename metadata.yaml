@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41227'
     url: http://www.gutenberg.org/2009/agents/41227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41539#Bukfenc
 gutenberg_issued: '2012-12-02'
 gutenberg_type: Text
 identifiers:
